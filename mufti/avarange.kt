@@ -1,4 +1,5 @@
 fun main() {
+  // hallo mufti ramdhani
 //   loop input 3x
   for (a in 1..3) {
       println("Masukan Nilai")
@@ -23,3 +24,4 @@ fun cekRata(nilai: List<Int>) {
   println(result / 3)
 
 }
+
