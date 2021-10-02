@@ -1,4 +1,4 @@
-# dikerjakan menggunakan Python
+# dikerjakan menggunakan Pythongit
 
 # melihat jumlah n yang dimasukkan
 def varn(a):
