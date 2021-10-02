@@ -30,3 +30,5 @@ int main(){
        }
     }
 }
+
+// saya ga ngerti c++ :)
