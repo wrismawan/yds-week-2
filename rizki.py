@@ -13,7 +13,7 @@ data = []
 jum = 0
 
 for i in range(0, n):
-    temp = str(input("Masukkan data ke-%d: " % (i+1)))
+    temp = int(input("Masukkan data ke-%d: " % (i+1)))
     data.append(temp)
     jum += data[i]
     rata2 = jum / n
