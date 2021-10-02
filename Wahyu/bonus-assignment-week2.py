@@ -21,3 +21,5 @@ if __name__ == '__main__':
     # mengeluarkan nilai rata2
     percentage = sum/len(student_marks[query_name])
     print("{:.2f}".format(percentage))
+
+    #mau coba test aja
