@@ -1,5 +1,5 @@
 # dikerjakan menggunakan Pythongit
-
+# test aisyah
 # melihat jumlah n yang dimasukkan
 def varn(a):
     if a < 2:
