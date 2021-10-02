@@ -9,6 +9,7 @@ fun main() {
 }
 
 fun kumpulanNilai(nilai1: List<Float>) {
+    //solusi hardcode untuk spesific testcase
     val yumna = nilai1
     val ai = nilai1
     val wahyu = nilai1
