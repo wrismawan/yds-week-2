@@ -1,5 +1,5 @@
 fun main() {
-    //input testcase
+    // coba lagi
     for (a in 1..3) {
         println("Masukan Nilai")
         val nilai1 = readLine()!!.split(" ").map { it.toFloat() }

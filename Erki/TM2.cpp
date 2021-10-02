@@ -7,7 +7,9 @@ int main(){
     double nilai[10][3];
     
     int n;
+    // ini input
     scanf("%d", &n);
+    // ini looping
     for(int i=0;i<n;i++){
         scanf("%s", nama[i]);
         for(int j=0;j<3;j++){
