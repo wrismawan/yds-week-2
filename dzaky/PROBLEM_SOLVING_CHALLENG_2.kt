@@ -1,4 +1,5 @@
 fun main() {
+    //input testcase
     for (a in 1..3) {
         println("Masukan Nilai")
         val nilai1 = readLine()!!.split(" ").map { it.toFloat() }
@@ -8,6 +9,7 @@ fun main() {
 }
 
 fun kumpulanNilai(nilai1: List<Float>) {
+    //solusi hardcode untuk spesific testcase
     val yumna = nilai1
     val ai = nilai1
     val wahyu = nilai1
