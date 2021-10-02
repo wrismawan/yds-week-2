@@ -1,5 +1,4 @@
 # dikerjakan menggunakan Python
-#daftar_nilai = []
 
 # melihat jumlah n yang dimasukkan
 def varn(a):
